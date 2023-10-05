@@ -19,6 +19,8 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1,TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
 
+#EXTINF:-1,HAE
+https://youtube.com/watch?v=/uwhUtYT5Tw8
 #EXTINF:-1,GDM40
 http://192.168.0.101:1111/storage/emulated/0/40.mp4?cmd=file
 #EXTINF:-1,GDM41
