@@ -33,3 +33,7 @@ https://e6.ainakwalajeen.com:999/hls/do5.m3u8?md5=JrzZK1-sOJd0xw3KiEY4Ew&expires
 https://a42.azplay.me/hls/streama213752/index.m3u8?cst=68ace93032e362c02c17e9a35657c543|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://emb.apl275.me/
  http://m.rrty019.com/
 
+#EXTINF:-1,GDM41
+http://192.168.0.101:1111/storage/emulated/0/GDM41.mp4?cmd=file
+#EXTINF:-1,GDM42
+http://192.168.0.101:1111/storage/emulated/0/GDM42.mp4?cmd=file
