@@ -19,9 +19,9 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1,TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
 
+#EXTINF:-1,Trung Quốc - Uzbekistan
+https://play.npvalfs.cn/rrty/sd-1-3990618.m3u8?txSecret=a9d3d603bdeed6d0b28bb4db6e0f92e6&txTime=651FB60B|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=http://m.rrty019.com/
 #EXTINF:-1,Liverpool – Union Saint-Gilloise
-https://e7.ainakwalajeen.com:999/hls/bbtsp1.m3u8?md5=wTBU3E1QCElantvdiIC0Qg&expires=1696538251|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://godzlive.com/
-#EXTINF:-1,Toulouse – LASK
 https://e2.ainakwalajeen.com:999/hls/do6.m3u8?md5=Mtn7v9NpMi0ibKltFDYtwQ&expires=1696538834|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://cast2record.com/
 #EXTINF:-1,Slavia Prague – Sheriff
 https://sbs1.dlive.click/pn-k5hUMIa9MCs6mSEn8XQ/1696560750/3131332e3137382e34332e3437/ff277/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://voodc.com/player/d/hYSUiKCMh5SLoKHC28DVwLSWh8C9wcXG4MehtY2aj6rKxZ-IjtmNnY.F14iZjYOovMy.wpOHmoSDkoeamrzTvM.Dy5KInoQ_/o6yOiZaFl46OoIGEl5CfiYaTj5uEgMKv
@@ -31,5 +31,5 @@ https://e5.ainakwalajeen.com:999/hls/hdchnl12.m3u8?md5=mQSIR3vGFF-UvIxwp4vt3g&ex
 https://e6.ainakwalajeen.com:999/hls/do5.m3u8?md5=JrzZK1-sOJd0xw3KiEY4Ew&expires=1696539333|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://cast2record.com/
 #EXTINF:-1,Molde – Leverkusen
 https://a42.azplay.me/hls/streama213752/index.m3u8?cst=68ace93032e362c02c17e9a35657c543|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://emb.apl275.me/
-
+ http://m.rrty019.com/
 
