@@ -1,37 +1,22 @@
 #EXTM3U
-#EXTINF:-1, Channel 5 Thailand
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1,Thaipbs Thailand
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1,Workpoint TV
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
-
-#EXTINF:-1,TV9 HD Mongolia
-https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
-#EXTINF:-1,C1 HD Mongolia
-https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
-#EXTINF:-1,UBS HD Mongolia
-https://cdn1.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8
-#EXTINF:-1,MNB Sport HD Mongolia
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
-#EXTINF:-1, SBS
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1,DAZN 1
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1,DAZN 2
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1,DAZN 3
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1,DAZN 4
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1,DAZN Laliga 1
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1,DAZN Laliga 2
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:-1,DAZN Laliga 3
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1,DAZN Laliga 4
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1,TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
-
-#EXTINF:-1,Trung Quốc - Uzbekistan
-https://play.npvalfs.cn/rrty/sd-1-3990618.m3u8?txSecret=a9d3d603bdeed6d0b28bb4db6e0f92e6&txTime=651FB60B|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=http://m.rrty019.com/
-#EXTINF:-1,Liverpool – Union Saint-Gilloise
-https://e2.ainakwalajeen.com:999/hls/do6.m3u8?md5=Mtn7v9NpMi0ibKltFDYtwQ&expires=1696538834|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://cast2record.com/
-#EXTINF:-1,Slavia Prague – Sheriff
-https://sbs1.dlive.click/pn-k5hUMIa9MCs6mSEn8XQ/1696560750/3131332e3137382e34332e3437/ff277/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://voodc.com/player/d/hYSUiKCMh5SLoKHC28DVwLSWh8C9wcXG4MehtY2aj6rKxZ-IjtmNnY.F14iZjYOovMy.wpOHmoSDkoeamrzTvM.Dy5KInoQ_/o6yOiZaFl46OoIGEl5CfiYaTj5uEgMKv
-#EXTINF:-1,Villarreal – Rennes 	
-https://e5.ainakwalajeen.com:999/hls/hdchnl12.m3u8?md5=mQSIR3vGFF-UvIxwp4vt3g&expires=1696539251|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://godzlive.com/
-#EXTINF:-1,Roma – Servette
-https://e6.ainakwalajeen.com:999/hls/do5.m3u8?md5=JrzZK1-sOJd0xw3KiEY4Ew&expires=1696539333|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://cast2record.com/
-#EXTINF:-1,Molde – Leverkusen
-https://a42.azplay.me/hls/streama213752/index.m3u8?cst=68ace93032e362c02c17e9a35657c543|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0&Referer=https://emb.apl275.me/
- http://m.rrty019.com/
 
 #EXTINF:-1,GDM41
 http://192.168.0.101:1111/storage/emulated/0/GDM41.mp4?cmd=file
