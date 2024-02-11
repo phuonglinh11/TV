@@ -1,24 +1,21 @@
 #EXTM3U
+#EXTINF:-1,DAZN 1 HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1,DAZN 2 HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1,DAZN 1
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1,DAZN 2
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1,DAZN 3
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1,DAZN Laliga 1
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1,DAZN Laliga 2
-acestream://26029f72a4ca831d09deefe89534818db1d105bc
+http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1,DAZN Laliga 3
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1,DAZN Laliga 4
-acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1,TBS
-https://tbs3.mov3.co/hls/tbs.m3u8
-
-#EXTINF:-1,GDM41
-http://192.168.0.101:1111/storage/emulated/0/GDM41.mp4?cmd=file
-#EXTINF:-1,GDM42
-http://192.168.0.101:1111/storage/emulated/0/GDM42.mp4?cmd=file
+http://127.0.0.1:6878/ace/manifest.m3u8?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
