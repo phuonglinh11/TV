@@ -19,3 +19,21 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d10
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1,DAZN Laliga 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1,UEFA Champions League 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1,UEFA Champions League 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=/ad372cba73aa0ece207a79532b3e30b731136bb2c
+#EXTINF:-1,UEFA Champions League 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=/f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1,UEFA Champions League 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1,UEFA Champions League 5
+http://127.0.0.1:6878/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1,UEFA Champions League 6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1,UEFA Champions League 7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1,UEFA Champions League 8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1,UEFA Champions League 9
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
