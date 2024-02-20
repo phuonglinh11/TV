@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Матч! HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=23c0c4568085e94e52a9ec7b769eb707ee3864f8
-#EXTINF:-1,Матч! Футбол 1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1e01376d3f5cd38a36bd6cfa2d4abedc29675337
+
 #EXTINF:-1,DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1,DAZN 2
@@ -20,9 +17,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4c4844564313e39a888f593511f299f5ba3cf
 #EXTINF:-1,DAZN Laliga 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1,UEFA Champions League 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c9bcffc5db27dc8d9f68371c17d419a7c2687942
+http://127.0.0.1:6878/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1,UEFA Champions League 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3e0dcfbfafaef24ef24c400e6f8d86caaa2a6843
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1,UEFA Champions League 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9af4b487d162c0db820e3fb675e213527cdcf841
 #EXTINF:-1,UEFA Champions League 4
