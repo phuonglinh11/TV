@@ -5,6 +5,17 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d
 #EXTINF:-1,Eleven Sport 2HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
+#EXTINF:-1,Setanta Sports 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1,Sky Sports Premier League
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1,Sky Sports Main Event
+http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1,M. LaLiga TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1,M. LaLiga 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
+
 #EXTINF:-1,DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1,DAZN 2
