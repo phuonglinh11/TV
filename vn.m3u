@@ -58,4 +58,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1,UEFA Europa League 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-
+#EXTINF:-1 group-title="Tennis",WTA 1
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 2
+https://playoutengine-v2.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 3
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 4
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 5
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
