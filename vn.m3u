@@ -24,10 +24,12 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1,DAZN 1 720p
-http://127.0.0.1:6878/ace/manifest.m3u8?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1,DAZN 2 720p
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1,Aston Villa - Liverpool
+https://obevcimanyd179249207.thapcam.link/live/nuiFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz/
+#EXTINF:-1,Fiorentina - Monza
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz/
+#EXTINF:-1,Barcelona - Real Sociedad
+https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz/
 #EXTINF:-1,DAZN Laliga 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1,DAZN Laliga 2
