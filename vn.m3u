@@ -68,26 +68,17 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6c445141445b06d7b4328d80e2dd936bd0ca5
 https://www.dailymotion.com/video/k1riOHCXHbFyzmAFU98
 
 
-#EXTINF:-1 group-title="Tennis",WTA 1
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
-#EXTINF:-1 group-title="Tennis",WTA 2
-https://playoutengine-v2.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae.m3u8
-#EXTINF:-1 group-title="Tennis",WTA 3
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 group-title="Tennis",WTA 4
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
-#EXTINF:-1 group-title="Tennis",WTA 5
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
-
-#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập  38
-https://vod3.thvli.vn/KCmxFZSV4aKhBG4LHy4oeA/1716660751/202203/re_hoamitrongmua_e68_std/d1e1b6d9/hls/mapper-fhd/playlist.m3u8
-#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập  39
-https://vod3.thvli.vn/83EaVAycdMT0j1YXa2Vfeg/1716660842/202203/re_hoamitrongmua_e69_std/faaeeb25/hls/mapper-fhd/playlist.m3u8
-#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập  40
-https://vod3.thvli.vn/v1JM2_dNnFgLTB8Q2MPCWA/1716660893/202203/re_hoamitrongmua_e70_std/c3c2fc69/hls/mapper-fhd/playlist.m3u8
-#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập  41
-https://vod3.thvli.vn/ye-A0MrTbPOOFb_YePecig/1716660939/202203/re_hoamitrongmua_e71_std/3e3d6bff/hls/mapper-fhd/playlist.m3u8
-#EXTINF:-1 group-title="Chúng Ta Của Tám Naem Sau", Tập 42
-https://vod3.thvli.vn/TLMnXNZShvjSSOk0CbOMbw/1716660989/202203/re_hoamitrongmua_e72_std/53de84ea/hls/mapper-fhd/playlist.m3u8
-#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 43
-https://vod3.thvli.vn/JMXhxB5GKx4KntGL2PwV0w/1716661039/202203/re_hoamitrongmua_e73_std/8907f3db/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 44
+https://vod3.thvli.vn/O654ca0wfyQizDDz4Gp5ww/1716667053/202203/re_hoamitrongmua_e74_std/c30dffe8/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 45
+https://vod3.thvli.vn/I4DniQ7ut35c2rnwnNAAuw/1716667141/202203/re_hoamitrongmua_e75_std/bf5c41d1/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 46
+https://vod3.thvli.vn/O0t7BU4MBWMN5aTK0XYpgg/1716667190/202203/re_hoamitrongmua_e76_std/f3962310/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 47
+https://vod3.thvli.vn/YDqo6Sn04IT8z4S-Gx5MMw/1716667288/202203/re_hoamitrongmua_e77_std/21b1680a/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 48
+https://vod3.thvli.vn/laUZdDh6phzd_t8MsQp0ng/1716667243/202203/re_hoamitrongmua_e78_std/4ed74d33/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 49
+https://vod3.thvli.vn/vxegMD3mMl5YaVKVhyOl9A/1716667383/202203/re_hoamitrongmua_e79_std/fec985b7/hls/mapper-fhd/playlist.m3u8
+#EXTINF:-1 group-title="Chúng Ta Của Tám Năm Sau", Tập 50
+https://vod3.thvli.vn/11yjmbSYXGdVNHw2C_MuOQ/1716667507/202203/re_hoamitrongmua_e80_std/a9c904f7/hls/mapper-fhd/playlist.m3u8
