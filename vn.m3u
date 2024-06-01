@@ -1,72 +1,72 @@
 #EXTM3U
 
 #EXTINF:-1,Eleven Sport 1HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1,Eleven Sport 2HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
 #EXTINF:-1,Setanta Sports 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1,Sky Sports Premier League
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1,Sky Sports Main Event
-http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1,M. LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1,M. LaLiga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
 #EXTINF:-1,DAZN 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1,DAZN 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1,DAZN 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1,Aston Villa - Liverpool
-https://obevcimanyd179249207.thapcam.link/live/nuiFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz/
-#EXTINF:-1,Fiorentina - Monza
-https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz/
-#EXTINF:-1,Barcelona - Real Sociedad
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz/
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1, Матч ТВ
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1, МАТЧ! Футбол 1
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1, МАТЧ! Футбол 2
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1, МАТЧ! Футбол 3
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 , Матч! Игра
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1, Матч Премьер
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
 #EXTINF:-1,DAZN Laliga 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1,DAZN Laliga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1,DAZN Laliga 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4c4844564313e39a888f593511f299f5ba3cf929
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1,DAZN Laliga 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1,UEFA Champions League 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1,UEFA Champions League 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1,UEFA Champions League 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+acestream://9af4b487d162c0db820e3fb675e213527cdcf841
 #EXTINF:-1,UEFA Champions League 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+acestream://9b1f759c5ef3faa811c995a2bde08e8405bc1090
 #EXTINF:-1,UEFA Champions League 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1,UEFA Champions League 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1,UEFA Champions League 7
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1,UEFA Europa League 1
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1,UEFA Europa League 2
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1,UEFA Europa League 3
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1,UEFA Europa League 4
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1,UEFA Europa League 5
-https://www.dailymotion.com/video/x8opekj
-#EXTINF:-1,UEFA Europa League 6
-https://www.dailymotion.com/video/x8oqdvp
-#EXTINF:-1,UEFA Europa League 7
-https://www.dailymotion.com/video/x8orbci
-#EXTINF:-1 group-title="Phim Điện Ảnh",Khóa Trong 
-https://hd1080.opstream2.com/20231102/43801_6bf25728/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="Phim Điện Ảnh", Quỷ Thay Đầu Baghead (2023) 
-https://sv1.streamvda.top/64df028b8145ac30fc6f3845af8341c7/hls.m3u8
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+
+#EXTINF:-1 group-title="Tennis",WTA 1
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 2
+https://playoutengine-v2.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 3
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 4
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 group-title="Tennis",WTA 5
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
