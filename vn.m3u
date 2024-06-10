@@ -59,8 +59,18 @@ acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1,UEFA Champions League 7
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1, Tennis Channel
-acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 ,POLSAT SPORT PL
+acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 ,POLSAT SPORT EXTRA PL
+acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 1 PL
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 ,PREMIUM 2 PL
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 ,TVP SPORT PL
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 ,SPORTKLUB PL
+acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 
 #EXTINF:-1 group-title="Tennis",WTA 1
 https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
