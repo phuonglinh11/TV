@@ -72,6 +72,11 @@ acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 ,SPORTKLUB PL
 acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 
+#EXTINF:-1 ,Trung Quốc - Hàn Quốc 
+https://obevcimanyd179569584.thapcam.link/a2ztmssZJlr4NFGaNcvdmw/Fv2lucGIbhPi2caWYvF5Lg/1718128257574/live/baoFHD/chunklist.m3u8
+#EXTINF:-1 ,Indonesia - Philippines
+https://obevcimanyd179569584.thapcam.link/D99-cEbWcRiwmVonT0ZZrA/Fv2lucGIbhPi2caWYvF5Lg/1718128601646/live/trauFHD/chunklist.m3u8
+
 #EXTINF:-1 group-title="Tennis",WTA 1
 https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
 #EXTINF:-1 group-title="Tennis",WTA 2
