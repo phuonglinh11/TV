@@ -1,17 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FVB Volleyball",12.06.2024 13:30 Netherlands - Serbia
+#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 10:00 Netherlands - USA
+#EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
+https://obevcimanyd179249207.thapcam.link/live/may2FHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+#EXTINF:-1 group-title="FVB Volleyball",13.06.2024 12:30 Bungaria - Thailand
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
 https://obevcimanyd179569584.thapcam.link/JMbNcqH2Vv-OqnfZSa444g/Fv2lucGIbhPi2caWYvF5Lg/1718194903229/live/oldFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FVB Volleyball",12.06.2024 16:00 Turkey - Thailand
+#EXTINF:-1 group-title="FVB Volleyball",13.06.2024 13:30 France - South Korea
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://obevcimanyd179569584.thapcam.link/UNkWgGrJ5RryE-VFGkBf_w/Fv2lucGIbhPi2caWYvF5Lg/1718206074248/live/Z1FHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FVB Volleyball",12.06.2024 17:20 South Korea - Japan 
+https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 16:00 Germany - Brazil
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://obevcimanyd179569584.thapcam.link/ZXCLae_pe6j82nFMt2VPHA/Fv2lucGIbhPi2caWYvF5Lg/1718208612932/live/chaFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FVB Volleyball",12.06.2024 19:30 Brazil - Poland
+https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 17:20 Japan - Canada
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://obevcimanyd179569584.thapcam.link/N_exUldtnuIL2DUJ-VpLrw/Fv2lucGIbhPi2caWYvF5Lg/1718216154150/live/may2FHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 19:30 Dominican Republic - Turkey
+#EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
+https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
 
 #EXTINF:-1 group-title="ATP - SINGLES: Stuttgart",Lorenzo Musetti vs Dominik Koepfer
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
