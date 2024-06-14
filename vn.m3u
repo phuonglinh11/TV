@@ -1,33 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 10:00 Netherlands - USA
+#EXTINF:-1 group-title="FIVB Volleyball",14.06.2024 10:00 Serbia - Pháp
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 12:30 Bungaria - Thailand
+https://obevcimanyd179569584.thapcam.link/6z7QZONSoYo88qOxktBwQw/Fv2lucGIbhPi2caWYvF5Lg/1718354462809/live/chaFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+#EXTINF:-1 group-title="FIVB Volleyball",14.06.2024 12:30 Bungaria - Brazil 
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
 https://obevcimanyd179569584.thapcam.link/JMbNcqH2Vv-OqnfZSa444g/Fv2lucGIbhPi2caWYvF5Lg/1718194903229/live/oldFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 13:30 France - South Korea
+#EXTINF:-1 group-title="FIVB Volleyball",14.06.2024 13:30 Canada - Hà Lan
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
 https://obevcimanyd179569584.thapcam.link/ax-0g8IjndxJ1skmxR2CpQ/Fv2lucGIbhPi2caWYvF5Lg/1718283548449/live/cunFHD/playlist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 16:00 Germany - Brazil
+#EXTINF:-1 group-title="FIVB Volleyball",14.06.2024 16:00 CH Dominican- Ba Lan
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
 https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 17:20 Japan - Canada
+#EXTINF:-1 group-title="FIVB Volleyball",14.06.2024 17:20 Italia - Hàn Quốc
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
 https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="FIVB Volleyball",13.06.2024 19:30 Dominican Republic - Turkey
+#EXTINF:-1 group-title="FIVB Volleyball",14.06.2024 19:30 Trung Quốc- Đức
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://obevcimanyd179569584.thapcam.link/e9-YbwVKu6nvufBMGikVvA/Fv2lucGIbhPi2caWYvF5Lg/1718302505753/live/Z1FHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
+https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
 
-#EXTINF:-1 group-title="ATP - SINGLES: Stuttgart",Lorenzo Musetti vs Dominik Koepfer
-#EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://obevcimanyd179569584.thapcam.link/FiFiPxAEcXQnwZLmVu10Jw/Fv2lucGIbhPi2caWYvF5Lg/1718206844844/live/hucFHD/chunklist.m3u8|referer=https://xem.bdhub.xyz/
-#EXTINF:-1 group-title="ATP - SINGLES: Stuttgart",Frances Tiafoe - Yannick Hanfmann
-https://playoutengine-v2.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae.m3u8
-#EXTINF:-1 group-title="WTA250 Nottingham Open",22:00 12/06 Karolina Plíšková vs Heather Watson Heather Watson 
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 group-title="WTA250 Hertogenbosch Open",19:30 12/06 Naomi Osaka vs Suzan Lamens
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
 
 #EXTINF:-1 group-title="ACE Stream",Eleven Sport 1HD
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
