@@ -1,18 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Wimbledon 2024",01-14/07/2024 ATP vs WTA 1
-#EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://a73.azplay.me/hls/streama220518/index.m3u8?cst=9ebc056fe9f99ac77f025e56dc53d3f8
-#EXTINF:-1 group-title="Wimbledon 2024",01-14/07/2024 ATP vs WTA 2
-#EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://est1.mizhls.ru/est1/cdn/mono24/tracks-v1a1/mono.m3u8|referer=https://1qwebplay.xyz/
-#EXTINF:-1 group-title="Wimbledon 2024",01-14/07/2024 ATP vs WTA 3
-#EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
-https://n6.dramaticreadings.com:999/hls/ten7.m3u8?md5=LgBguWh2CWv-jmG0zB9aew&expires=1721741993|referer=https://fiveyardlab.com/
-#EXTINF:-1 group-title="Wimbledon 2024",01-14/07/2024 ATP vs WTA 4
+#EXTINF:-1 group-title="WTA Tour",WTA 1
+https://a73.azplay.me/hls/streama223846/index.m3u8?cst=79e93c0293be73ffe47c093064a74b63|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://emb.apl359.me/
+#EXTINF:-1 group-title="WTA Tour",WTA 2
+https://webufffit.mizhls.ru/lb/bet6479090/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://cookiewebplay.xyz/
+#EXTINF:-1 group-title="WTA Tour",WTA 3
+https://wiki.mizhls.ru/wiki/wikiten5/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://cookiewebplay.xyz/
+#EXTINF:-1 group-title="WTA Tour",WTA 4
 #EXTVLCOPT:http-referer=https://xem.bdhub.xyz/
 https://n1.dramaticreadings.com:999/hls/ten9.m3u8?md5=2EkF9L_8_mmRMbb5iI2Fjw&expires=1721741292|referer=https://fiveyardlab.com/
-#EXTINF:-1 group-title="Wimbledon 2024",01-14/07/2024 ATP vs WTA 5
+#EXTINF:-1 group-title="WTA Tour",WTA 5
+https://07-24.mizhls.ru/fls/cdn/bet6479090/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://topembed.pw/
+#EXTINF:-1 group-title="WTA Tour",WTA 6
 https://www.dailymotion.com/video/x8qwx8r
 
 #EXTINF:-1 group-title="ACE Stream",Eleven Sport 1HD
