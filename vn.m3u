@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="WTA Tour",WTA 1
-https://a86.azplay.me/hls/streama224239/index.m3u8?cst=77b7884d9f97d0ed51b38f1d335ee3b6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://emb.apl359.me/
+https://a73.azplay.me/hls/streama224239/index.m3u8?cst=175323eb2f6934934cf27a3ab635aa73|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://emb.apl359.me/
 #EXTINF:-1 group-title="WTA Tour",WTA 2
 https://webufffit.mizhls.ru/lb/bet6479090/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0&Referer=https://cookiewebplay.xyz/
 #EXTINF:-1 group-title="WTA Tour",WTA 3
@@ -54,6 +54,12 @@ acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 group-title="ACE Stream", Матч Премьер
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="ACE Stream", Euro Sport 1
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="ACE Stream", Euro Sport 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+
 
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 1
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
