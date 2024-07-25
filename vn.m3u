@@ -65,11 +65,34 @@ acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 group-title="ACE Stream", Матч Премьер
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
 #EXTINF:-1 group-title="ACE Stream", Euro Sport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="ACE Stream", Euro Sport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="ACE Stream", Euro Sport 4K
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
 
+#EXTINF:-1 group-title="ACE Stream", Euro 4K
+acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 group-title="ACE Stream", Euro 1
+acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="ACE Stream", Euro 2
+acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="ACE Stream", Euro 3
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="ACE Stream", Euro 4
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="ACE Stream", Euro 5
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="ACE Stream", Euro 6
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="ACE Stream", Euro 7
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="ACE Stream", Euro 8
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="ACE Stream", Euro 9
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
 
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 1
