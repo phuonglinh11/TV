@@ -163,35 +163,6 @@ acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 group-title="ACE Stream", Матч Премьер
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
-#EXTINF:-1 group-title="ACE Stream", Euro Sport 1
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ACE Stream", Euro Sport 2
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="ACE Stream", Euro Sport 4K
-acestream://c525471499b936decc037ea86e0f8125ebf78c28
-
-#EXTINF:-1 group-title="ACE Stream", Euro 4K
-acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
-#EXTINF:-1 group-title="ACE Stream", Euro 1
-acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
-#EXTINF:-1 group-title="ACE Stream", Euro 2
-acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
-#EXTINF:-1 group-title="ACE Stream", Euro 3
-acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
-#EXTINF:-1 group-title="ACE Stream", Euro 4
-acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
-#EXTINF:-1 group-title="ACE Stream", Euro 5
-acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
-#EXTINF:-1 group-title="ACE Stream", Euro 6
-acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
-#EXTINF:-1 group-title="ACE Stream", Euro 7
-acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
-#EXTINF:-1 group-title="ACE Stream", Euro 8
-acestream://721a78f2076faa584c9c09059ffb4e10159f4665
-#EXTINF:-1 group-title="ACE Stream", Euro 9
-acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
-
-
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 1
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 2
@@ -235,19 +206,27 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 group-title="ACE Stream",POLSAT SPORT PL
-acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 group-title="ACE Stream",POLSAT SPORT EXTRA PL
-acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 group-title="ACE Stream",POLSAT SPORT PREMIUM 1 PL
-acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 group-title="ACE Stream",PREMIUM 2 PL
-acestream://3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 group-title="ACE Stream",TVP SPORT PL
-acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 group-title="ACE Stream",SPORTKLUB PL
-acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 group-title="Live Football",DAZN 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="Live Football",DAZN 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="Live Football",DAZN 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title="Live Football",DAZN 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-
-
+#EXTINF:-1 group-title="Live Football",Champions League và Laliga 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 group-title="Live Football",Champions League và Laliga 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="Live Football",Champions League và Laliga 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 group-title="Live Football",Champions League và Laliga 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="Live Football",ACETOP-1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 group-title="Live Football",ACETOP-2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 group-title="Live Football",ACETOP-3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2743fd284cad79cd23afc31848091b28d5929020
 
