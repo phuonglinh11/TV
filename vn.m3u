@@ -57,73 +57,83 @@ https://obevcimanyd179591709.thapcam.link/85E1LJpKL95_kxGkjmwbAw/Fv2lucGIbhPi2ca
 https://vod3.cf.dmcdn.net/sec2(Fhsx-hK6yHPW58hkiMb-wQ7FJI9l5XQP2CWhtpehxUjaMg9HOzarRrnesv1Hab-AMFlBOKRBUm5a4D-_Eioi1nuXtytubYwXcor7Ifj4hBFtPqBk1UkF73DJky3oZvNQKSZQlvZBiZ5_ZkXwYsMQDw)/video/892/529/548925298_mp4_h264_aac_hd_1.m3u8
 
 
-#EXTINF:-1 group-title="ACE Stream",Eleven Sport 1HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="ACE Stream",Eleven Sport 2HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="ACE Stream",Pimple Tv 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 group-title="ACE Stream",Pimple Tv 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 group-title="ACE Stream",Pimple Tv 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 group-title="ACE Stream",Pimple Tv 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 group-title="ACE Stream",ACETOP-1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=77fd6e894eba1957177c0f8faa48ff851b3ffbd5
-#EXTINF:-1 group-title="ACE Stream",ACETOP-2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=94adcdc5a9de993dd11c6d648275cfeb2be6715b
-#EXTINF:-1 group-title="ACE Stream",ACETOP-3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2743fd284cad79cd23afc31848091b28d5929020
+#EXTINF:-1 group-title="ACE Stream",Liverpool vs Bayer Leverkusen
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 group-title="ACE Stream",Real Madrid vs AC Milan
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="ACE Stream",Lille vs Juventus
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="ACE Stream",Sporting CP vs Manchester City
+acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 group-title="ACE Stream",Borussia Dortmund vs Sturm Graz
+acestream://aca05dc506242324c1727525d0535ceda24f8dea
 
-#EXTINF:-1 group-title="ACE Stream",Setanta Sports 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="ACE Stream",Sky Sports Premier League
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="ACE Stream",Sky Sports Main Event
-http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="ACE Stream",M. LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="ACE Stream",M. LaLiga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 1HD
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 2HD
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="ACE Stream",Pimple Tv 1
+acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 group-title="ACE Stream",Pimple Tv 2
+acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="ACE Stream",Pimple Tv 3
+acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 group-title="ACE Stream",Pimple Tv 4
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="ACE Stream",ACETOP-1
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 group-title="ACE Stream",ACETOP-2
+acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 group-title="ACE Stream",ACETOP-3
+acestream://2743fd284cad79cd23afc31848091b28d5929020
 
 #EXTINF:-1 group-title="ACE Stream",DAZN 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="ACE Stream",DAZN 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title="ACE Stream",DAZN 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="ACE Stream",DAZN 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 group-title="ACE Stream", Матч ТВ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 group-title="ACE Stream", МАТЧ! Футбол 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b28db77c5084da7993395d77df96c30bb134f0a9
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 group-title="ACE Stream", МАТЧ! Футбол 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 group-title="ACE Stream", МАТЧ! Футбол 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b6baa046075d82da300fc1b16de96067a8b9540e
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 group-title="ACE Stream",Матч! Игра
-http://127.0.0.1:6878/ace/manifest.m3u8?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 group-title="ACE Stream", Матч Премьер
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
+#EXTINF:-1 group-title="ACE Stream",Setanta Sports 1
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="ACE Stream",Sky Sports Premier League
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="ACE Stream",Sky Sports Main Event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="ACE Stream",M. LaLiga TV
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="ACE Stream",M. LaLiga 2
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 group-title="ACE Stream",Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="ACE Stream",M. Deportes  2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 7
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 1
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 2
@@ -132,21 +142,3 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 4
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 7
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-EXTINF:-1 group-title="ACE Stream",UEFA Champions League 8
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-
