@@ -137,3 +137,16 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 group-title="ACE Stream",DAZN Laliga 4
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+
+#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 1
+https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_01/ClubFriday11_CamDo_01_720p.m3u8
+#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 2
+https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_02/ClubFriday11_CamDo_02_720p.m3u8
+#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 3
+https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_03/ClubFriday11_CamDo_03_720p.m3u8
+#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 4
+https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_04/ClubFriday11_CamDo_04_720p.m3u8
+#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 5
+https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_05/ClubFriday11_CamDo_05_720p.m3u8
+#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 6 
+https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_06/ClubFriday11_CamDo_06_720p.m3u8
