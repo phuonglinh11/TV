@@ -28,7 +28,7 @@ acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
 
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 1
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title="ACE Stream",M. Deportes  2
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 2
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 group-title="ACE Stream",M. Deportes 3
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
@@ -69,8 +69,10 @@ acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
 #EXTINF:-1 group-title="ACE Stream",ACETOP-3
 acestream://2743fd284cad79cd23afc31848091b28d5929020
 
-#EXTINF:-1 group-title="ACE Stream", Australia Open
+#EXTINF:-1 group-title="ACE Stream", Australia Open 1
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 group-title="ACE Stream", Australia Open 2
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 group-title="ACE Stream", Матч ТВ
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 group-title="ACE Stream", МАТЧ! Футбол 1
@@ -94,40 +96,3 @@ acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="ACE Stream",M. LaLiga 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 group-title="ACE Stream",Vamos
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 1
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="ACE Stream",M. Deportes  2
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 3
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 4
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 5
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 6
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 7
-acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="ACE Stream",DAZN Laliga 1
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="ACE Stream",DAZN Laliga 2
-acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 group-title="ACE Stream",DAZN Laliga 3
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 group-title="ACE Stream",DAZN Laliga 4
-acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-
-#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 1
-https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_01/ClubFriday11_CamDo_01_720p.m3u8
-#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 2
-https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_02/ClubFriday11_CamDo_02_720p.m3u8
-#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 3
-https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_03/ClubFriday11_CamDo_03_720p.m3u8
-#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 4
-https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_04/ClubFriday11_CamDo_04_720p.m3u8
-#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 5
-https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_05/ClubFriday11_CamDo_05_720p.m3u8
-#EXTINF:-1, group-title="Cám Dỗ (series Lưới Tình Đô Thị)",Tập 6 
-https://vod-cdn01.danet.vn/AVOD/ClubFriday11/ClubFriday11_CamDo_06/ClubFriday11_CamDo_06_720p.m3u8
