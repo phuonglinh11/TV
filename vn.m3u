@@ -1,71 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Cồn
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjk5OTE1MzgsInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3Mjk5Njk5Mzh9.ulJlOezUmYaOYuVcTcKYyStVOj7L5DU325vzSWEcByo-/may3HD/chunks.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV", Trâu Gác Bếp
-https://vb90xltcvg-secure.nsnd.live/-LLQJYRTjFkDTzuhUbpIDA/847878fb5be3ca4c0539d0883bc5274a/1728597479/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV", Cáp Tần
-https://vb90xltcvg-secure.nsnd.live/Al_v-cgGub4vN_QJx0HfAQ/fc724b392eb664de8f0b54609b1e66f5/1729012539/live/_definst_/stream_1_1bda7@Z3FHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV", Phở Bò
-https://vb90xltcvg-secure.nsnd.live/SeCDY2oNa1GQZmIxahwgRw/a75e9b78c79480f30c7ea83b12c71e42/1729012627/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Bún Chả
-https://obevcimanyd179569584.thapcam.link/kHkmPQSuOKahFE9SbThwSw/Fv2lucGIbhPi2caWYvF5Lg/1722171002630/live/chaFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Húc
-https://vb90xltcvg-secure.nsnd.live/fovJEcW4nftSAdDrbZarcw/f13af37e22c82318c65a375473fc75f2/1728590295/live/_definst_/stream_1_1bda7@hucFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Bánh Cuốn
-https://vb90xltcvg-secure.nsnd.live/kWWpUS0QBGTadU0epTfn5g/ecdd2fe3d570b8f38d7664bb44af6d73/1729017246/live/_definst_/stream_1_1bda7@cuonFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV", Người Già
-https://obevcimanyd179569584.thapcam.link/gJB13ShkHBDrd1SEvYaQgw/Fv2lucGIbhPi2caWYvF5Lg/1722361191092/live/oldFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Thỏ
-https://obevcimanyd179569584.thapcam.link/KjdP8u5Pao6QNKMbAqeWpA/Fv2lucGIbhPi2caWYvF5Lg/1722361191092/live/may1FHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Phép
-https://obevcimanyd179569584.thapcam.link/Mo6iI1epSPuRiqq3S6D7qw/Fv2lucGIbhPi2caWYvF5Lg/1722116303754/live/phepFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Báo
-https://obevcimanyd179569584.thapcam.link/bS5rmnZV0jj6kj7YJ6dLgQ/Fv2lucGIbhPi2caWYvF5Lg/1722361746120/live/baoFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Mỳ Tôm
-https://vb90xltcvg-secure.nsnd.live/P3uq3WdNTImFKINsuqwAzg/37c56eb4aaf958eda25bed5c53705fc2/1728589552/live/_definst_/stream_1_1bda7@myFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Hói
-https://obevcimanyd179569584.thapcam.link/uYXGot7bNuLdJvYrcyl1gQ/Fv2lucGIbhPi2caWYvF5Lg/1722128175933/live/Z2FHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Cây
-https://obevcimanyd179569584.thapcam.link/srRxBHiacmlNdrGcKAs7Ww/Fv2lucGIbhPi2caWYvF5Lg/1722547046590/live/Z1FHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Cáo
-https://obevcimanyd179569584.thapcam.link/VZrHq_r7og2lOqnJlP0Ifw/Fv2lucGIbhPi2caWYvF5Lg/1722545911745/live/caoFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Cún
-https://vb90xltcvg-secure.nsnd.live/EkaZ2jLpnOaJeqnu3FlGzg/317070d9a306b71c37e6ea9e37f2842f/1728590171/live/_definst_/stream_1_1bda7@cunFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Móm
-https://obevcimanyd179569584.thapcam.link/fXIZU2jqZ3bgeRSIPOgn-g/Fv2lucGIbhPi2caWYvF5Lg/1722806189277/live/momFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Người Lông
-https://vb90xltcvg-secure.nsnd.live/ryIUnfUf0bByInvAHQ5V5A/847878fb5be3ca4c0539d0883bc5274a/1731607133/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8|Referer=https://t.fdcdn.xyz/
-#EXTINF:-1 group-title="Thập Cẩm TV",Mèo Ú
-https://fdcdn.livestreameuro.live/live/trauHD.flv|Referer=https://t.fdcdn.xyz/
+#EXTINF:-1 group-title="ACE Stream",DAZN 1
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title="ACE Stream",DAZN 2
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title="ACE Stream",DAZN 3
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title="ACE Stream",DAZN 4
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 
-#EXTINF:-1 group-title="WTA Tour",WTA 1
-https://obevcimanyd179591709.thapcam.link/Y8QGE7wjGyGzC9zyvkRulg/Fv2lucGIbhPi2caWYvF5Lg/1724970442240/live/may26/chunklist.m3u8|Referer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="WTA Tour",WTA 2
-https://wiki.iosplayer.ru/tshttp/wiki/wikiten3/mono.m3u8?token=none
-#EXTINF:-1 group-title="WTA Tour",WTA 3
-https://obevcimanyd179591709.thapcam.link/GdGLQLfuMvTRDSSWVbpgcQ/Fv2lucGIbhPi2caWYvF5Lg/1724969468374/live/may101/chunklist.m3u8|Referer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="WTA Tour",WTA 4
-https://obevcimanyd179591709.thapcam.link/Y6MsP6300dnb0u6QghW-eA/Fv2lucGIbhPi2caWYvF5Lg/1724969468374/live/may28/chunklist.m3u8|Referer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="WTA Tour",WTA 5
-https://obevcimanyd179591709.thapcam.link/f90eUnXdVWMd_JQA5_Od4g/Fv2lucGIbhPi2caWYvF5Lg/1724969468374/live/may24/chunklist.m3u8|Referer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="WTA Tour",WTA 6
-https://obevcimanyd179591709.thapcam.link/BUeFyMHQDPt3nGp5Lb9-mw/Fv2lucGIbhPi2caWYvF5Lg/1724894033488/live/may17/chunklist.m3u8|Referer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="WTA Tour",WTA 7
-https://obevcimanyd179591709.thapcam.link/85E1LJpKL95_kxGkjmwbAw/Fv2lucGIbhPi2caWYvF5Lg/1724894033488/live/may26/chunklist.m3u8|Referer=https://i.fdcdn.xyz/
-#EXTINF:-1 group-title="WTA Tour",WTA 8
-https://shootvvvvvvvvv.yalla-shoot-tv.live/matches/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%88-%d8%a5%d9%8a%d8%b1%d8%a7%d9%86/
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 1
+acestream://775abd8697715c48a357906d40734ccd2a10513c
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 2
+acestream://c070cdb701fc46bb79d17568d99fc64620443d63
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 3
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 4
+acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 5
+acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 6
+acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
+#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 7
+acestream://b7f47db93dced60f54e8f89e2366ed061b534049
+EXTINF:-1 group-title="ACE Stream",UEFA Champions League 8
+acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
 
-#EXTINF:-1 group-title="ACE Stream",Crystal Palace vs Newcastle United
-https://a3.cdn-games.live/watch/m24PuYPAREBM027vsW9S8A/1732981711/1732981965/1/b2_1.m3u8
-#EXTINF:-1 group-title="ACE Stream",Nottingham Forest vs Ipswich
-https://a2.cdn-games.live/watch/F3up71hzQ4RCh3D5U4JxLw/1732981972/1732982226/1/xtra1_1.m3u8
-#EXTINF:-1 group-title="ACE Stream",Wolverhampton vs Bournemouth
-https://a3.cdn-games.live/watch/V_-6noRFfOPNtlwaXhuwQQ/1732982129/1732982383/1/univer_1.m3u8
-#EXTINF:-1 group-title="ACE Stream",Deportivo Alaves vs Leganes
-https://a2.cdn-games.live/watch/zlJhM5lMxoDTREjh-Xqpbg/1732982199/1732982453/1/b3_1.m3u8
-#EXTINF:-1 group-title="ACE Stream",Rennes vs Saint Etienne
-https://a1.cdn-games.live/watch/Fibcaxz8wMX5EcExb8PhbQ/1732982444/1732982698/1/b4_1.m3u8
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 1
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title="ACE Stream",M. Deportes  2
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 3
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 4
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 5
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 6
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 group-title="ACE Stream",M. Deportes 7
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
 
 #EXTINF:-1 group-title="ACE Stream",Vòng Loại WC Nam Mỹ 1
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
@@ -95,14 +69,6 @@ acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
 #EXTINF:-1 group-title="ACE Stream",ACETOP-3
 acestream://2743fd284cad79cd23afc31848091b28d5929020
 
-#EXTINF:-1 group-title="ACE Stream",DAZN 1
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="ACE Stream",DAZN 2
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="ACE Stream",DAZN 3
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="ACE Stream",DAZN 4
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 group-title="ACE Stream", Матч ТВ
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 group-title="ACE Stream", МАТЧ! Футбол 1
