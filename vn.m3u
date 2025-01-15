@@ -69,6 +69,8 @@ acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
 #EXTINF:-1 group-title="ACE Stream",ACETOP-3
 acestream://2743fd284cad79cd23afc31848091b28d5929020
 
+#EXTINF:-1 group-title="ACE Stream", Australia Open
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 group-title="ACE Stream", Матч ТВ
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 group-title="ACE Stream", МАТЧ! Футбол 1
