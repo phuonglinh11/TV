@@ -1,54 +1,59 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ACE Stream",DAZN 1
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+acestream://d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
 #EXTINF:-1 group-title="ACE Stream",DAZN 2
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+acestream://7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 #EXTINF:-1 group-title="ACE Stream",DAZN 3
-acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+acestream:/98fba924421aa1e4bd28e74d74a2726d0459b594
 #EXTINF:-1 group-title="ACE Stream",DAZN 4
-acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+acestream://c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
 
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 1
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 2
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 3
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 4
-acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 5
-acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 6
-acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
-#EXTINF:-1 group-title="ACE Stream",UEFA Champions League 7
-acestream://b7f47db93dced60f54e8f89e2366ed061b534049
-EXTINF:-1 group-title="ACE Stream",UEFA Champions League 8
-acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
+#EXTINF:-1 group-title="ACE Stream",BT Sport 1
+acestream://19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+#EXTINF:-1 group-title="ACE Stream",BT Sport 2
+acestream://01dcc1ea3387c2b73953efe3f52286a770737d7c
+#EXTINF:-1 group-title="ACE Stream",BT Sport 3
+acestream://d57ebd44296b0c92c0661cc964e737a54b852cec
+#EXTINF:-1 group-title="ACE Stream",BT Sport/ESPN 
+acestream://2605c201c8c9cf6684ee1de562d3b4c7e17ac915
+#EXTINF:-1 group-title="ACE Stream",Sky Sports Main Event
+acestream://78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 group-title="ACE Stream",Sky Sports Premier League
+acestream://e33fb63ba12cf45bcee7757c8520f561ad27a39f
+#EXTINF:-1 group-title="ACE Stream",Sky Sports Football
+acestream://54de746f7823812312b4000422618465f7d58f87
+#EXTINF:-1 group-title="ACE Stream",Sky Sports Arena
+acestream://37796ca47026bc190c7dc26827c0dfb6b61d137b
 
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 1
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 2
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 3
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 4
-acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 5
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 6
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title="ACE Stream",M. Deportes 7
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 group-title="ACE Stream",Sky Sports 1 DE
+acestream://00c505e3e33687ecac47ef2a555497e66ebdc5af
+#EXTINF:-1 group-title="ACE Stream",Sky Sports 2 DE
+acestream://2707b05c94cf5d582e8ff71d3b35f8d1219ad0ac
+#EXTINF:-1 group-title="ACE Stream",Polsat Sport Premium 1 [PL]
+acestream://58b193890946b099a7d2c7dca37a48b36a12467f
+#EXTINF:-1 group-title="ACE Stream",Polsat Sport Premium 2 [PL]
+acestream://70ba32a661dc71ac3008f2bcb8aa202c5514f4e3
+#EXTINF:-1 group-title="ACE Stream",Polsat Sport Extra [PL]
+acestream://f0beebc90853dc8342691a85539b5efbe0e94c1e
+#EXTINF:-1 group-title="ACE Stream",Polsat New HD [PL]
+acestream://787bfae1680aeba24aaa5481242cc8d566f0fe30
 
-#EXTINF:-1 group-title="ACE Stream",Vòng Loại WC Nam Mỹ 1
-acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 group-title="ACE Stream",Vòng Loại WC Nam Mỹ 2
-acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 group-title="ACE Stream",Vòng Loại WC Nam Mỹ 3
-acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 group-title="ACE Stream",Vòng Loại WC Nam Mỹ 4
-acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 group-title="ACE Stream",Canal+ Sport 1 [PL]
+acestream://b28785877e0ba9ac50266cb71fc0702c94034cf1
+#EXTINF:-1 group-title="ACE Stream",Canal+ Sport 2 [PL]
+acestream://9bd91396b4418ae7c8eed7b8a6964eb8a43de204
+#EXTINF:-1 group-title="ACE Stream",Canal+ Sport 3 [PL]
+acestream://1b0b33da21fc4ac7a3a28dfd7d6a2e8dadddf6f5
+#EXTINF:-1 group-title="ACE Stream",Canal+ Sport 4 [PL]
+acestream://9010f93e90063729f875a05db7b899fd892deadc
+
+#EXTINF:-1 group-title="ACE Stream",Bein Sport 1 [BE]
+acestream://58e454d067b9e25e40f3c62b3430b55ef6fead09
+#EXTINF:-1 group-title="ACE Stream",Bein Sport 2 [BE]
+acestream://fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac
+#EXTINF:-1 group-title="ACE Stream",Bein Sport 3 [BE]
+acestream://519c2159e9228bfe2f94911dfa111b01d0a896e2
 
 #EXTINF:-1 group-title="ACE Stream",Eleven Sport 1HD
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
@@ -68,6 +73,23 @@ acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
 acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
 #EXTINF:-1 group-title="ACE Stream",ACETOP-3
 acestream://2743fd284cad79cd23afc31848091b28d5929020
+
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 1HD
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 2HD
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 1 [BE]
+acestream://969e14989a98c62518a7640741dbf15d90212d1a
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 2 [BE]
+acestream://27573fb01690fd55b25c07ae2180ee44b1ad8a7c
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 3 [BE]
+acestream://33246d7ad41db9ad7654f0d553b5e7500363d1b8
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 4 [BE]
+acestream://3c0cfbeb4075be58baa32e41dabee3c75b8a80e6
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 5 [BE]
+acestream://2c9a996c060d157ff63109c5b999d55bbc2ffd95
+#EXTINF:-1 group-title="ACE Stream",Eleven Sport 6 [BE]
+acestream://471f21a1eb3453e9b70e90228f016ad1142d581d
 
 #EXTINF:-1 group-title="ACE Stream", Australia Open 1
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
