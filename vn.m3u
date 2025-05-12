@@ -27,16 +27,13 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 
-#EXTINF:-1 group-title="ACE Stream",Polsat Sport Fight [PL]
-acestream://9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 group-title="ACE Stream",Polsat Sport Premium 1 [PL]
-acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 group-title="ACE Stream",Polsat Sport Premium 2 [PL]
-acestream://3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 group-title="ACE Stream",Polsat Sport Extra [PL]
-acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 group-title="ACE Stream",Polsat HD [PL]
-acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 group-title="ACE Stream",M+ DEPORTES FHD
+acestream://689a047a6911e1b8a3542e90c5d4201d95f4f7ba
+#EXTINF:-1 group-title="ACE Stream",M+ DEPORTES 2 FHD
+acestream://7081a13d9fab9ef28bcee55afeedda9b9bfb4251
+#EXTINF:-1 group-title="ACE Stream",M+ DEPORTES 3 FHD
+acestream://76ef9323cbf0fcab45c7411361320c04a1b87ee9
+
 
 
 #EXTINF:-1 group-title="ACE Stream",Bein Sport 1 [BE]
