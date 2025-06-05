@@ -4157,53 +4157,103 @@ https://surrit.com/7796718b-b138-4082-896a-5aabfa9873b9/playlist.m3u8
 #EXTINF:-1 group-title="FALENO",FSDSS-996 Mami Zenba (Mami Mashiro)
 https://surrit.com/98d8620f-88f8-4dbe-b325-99928a8d8c8a/720p/video.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",PRED-001 Aika Yamagishi
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00001/pred00001pl.jpg" group-title="Premium",PRED-001 Aika Yamagishi 山岸逢花
 https://surrit.com/a312410a-5621-483d-a084-2d57c2044b1c/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-002 Suzu Mitake
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00002/pred00002pl.jpg" group-title="Premium",PRED-002 Suzu Mitake 美竹すず
 https://surrit.com/a6dd7376-ffa5-48cf-9efc-e44b62ef63a6/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-003 Nao Wakana
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00003/pred00003pl.jpg" group-title="Premium",PRED-003 Maki Tomoda 友田真希
 https://surrit.com/ebf79eaa-f395-4700-8e8e-2ba3c0d0faab/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-004 Aki Sasaki
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00004/pred00004pl.jpg" group-title="Premium",PRED-004 Aki Sasaki 佐々木あき
 https://surrit.com/35c93a3a-f465-459a-ae3c-a6ef8e457f3c/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-005 Yuri Momose
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00005/pred00005pl.jpg" group-title="Premium",PRED-005 Yuri Momose 桃瀬ゆり
 https://surrit.com/1a6c1c98-3f99-4d75-8f0d-564dd3fc18df/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-006 Aya Sakurai
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00006/pred00006pl.jpg" group-title="Premium",PRED-006 Aya Sakurai 桜井彩
 https://surrit.com/9786ec89-4cb4-4148-ac08-10c75f16054a/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-007 Ayaka Yamagishi
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00007/pred00007pl.jpg" group-title="Premium",PRED-007 Aika Yamagishi 山岸逢花
 https://surrit.com/73fb9d7f-1ecd-4957-a1c3-0836a574a923/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-008 Chisato Ugaki
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00008/pred00008pl.jpg" group-title="Premium",PRED-008 Chisato Ugaki 宇垣ちさと
 https://surrit.com/3644bf06-a8bb-45b3-b69b-1138f03db2f9/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-009 Ria Kashii
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00009/pred00009pl.jpg" group-title="Premium",PRED-009 Ria Kashii 香椎りあ
 https://surrit.com/0765cb8e-2010-4ee9-a5b8-248458f6285c/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-010 Rika Mari
-https://surrit.com/4ff4f7e9-9eaf-471d-b11f-7e710beb041f/842x480/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-011 Asahi Mizuno
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00010/pred00010pl.jpg" group-title="Premium",PRED-010 Rika Mari 麻里梨夏
+https://surrit.com/ea39c681-2155-4406-bb5a-4fd1a7750723/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00011/pred00011pl.jpg" group-title="Premium",PRED-011 Asahi Mizuno 水野朝陽
 https://surrit.com/f83ea6b6-fdda-4198-876c-bf2586d2f03e/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-012 Nao Wakana
-https://surrit.com/4c9e8ba6-32e3-4850-ad6c-0956d6f2a39a/1280x720/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-013 Yu Kawakami
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00012/pred00012pl.jpg" group-title="Premium",PRED-012 Nao Wakana 若菜奈央
+https://surrit.com/df407e39-bc52-403e-b78e-2e7ef1b7e11b/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00013/pred00013pl.jpg" group-title="Premium",PRED-013 Yu Kawakami 川上ゆう
 https://surrit.com/c5ff9486-6bd4-4798-bd60-5df29ca31c83/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-014 Hamamatsu Aki
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00014/pred00014pl.jpg" group-title="Premium",PRED-014 Aki Hamamatsu 濱松愛季
 https://surrit.com/df042586-d017-4e53-919a-b0067eca6af9/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-015 Ayaka Yamagishi
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00015/pred00015pl.jpg" group-title="Premium",PRED-015 Aika Yamagishi 山岸逢花
 https://surrit.com/cfbbedc5-b773-411d-b39b-c81b7d11d4f5/1920x1080/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-016 Nao Mizuki
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00016/pred00016pl.jpg" group-title="Premium",PRED-016 Nao Mizuki 水城奈緒
 https://surrit.com/2a624202-6414-4f19-8308-ed6c5a838ca4/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-017 Aki Sasaki
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00017/pred00017pl.jpg" group-title="Premium",PRED-017 Aki Sasaki 佐々木あき
 https://surrit.com/063cb4f4-879e-4de6-8338-8885ec3730b8/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-018 Anna Morikawa
-https://surrit.com/d434b24b-34a9-4afb-882e-a16227eccf2f/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-019 Ooto Wakaba
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00018/pred00018pl.jpg" group-title="Premium",PRED-018 Anna Morikawa 森川アンナ
+https://surrit.com/980fe287-0d5d-48ff-9153-f862c852525a/720p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00019/pred00019pl.jpg" group-title="Premium",PRED-019 Wakaba Oto 大杜若羽
 https://surrit.com/485e01e0-57fa-498a-ae38-552c7c91c83a/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-020 Ayaka Yamagishi
-https://surrit.com/8b2b57b0-21ea-4c05-933f-a689e7cceaab/720p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-021 Chisato Ugaki
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00020/pred00020pl.jpg" group-title="Premium",PRED-020 Aika Yamagishi 山岸逢花
+https://surrit.com/9ff8cb5d-8359-4985-828d-9aed54c86a93/842x480/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00021/pred00021pl.jpg" group-title="Premium",PRED-021 Chisato Ugaki 宇垣ちさと
 https://surrit.com/1f3c4e09-5717-4256-adc9-b645655688e6/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-022 Aiki Hamamatsu
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00022/pred00022pl.jpg" group-title="Premium",PRED-022 Aki Hamamatsu 濱松愛季
 https://surrit.com/d316a6ca-869e-4130-aec9-edcbe0008e03/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-023 An Mashiro
-https://surrit.com/96cd30ba-da42-40d7-96e9-9b002d50b776/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-024 Mao Kurata
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00023/pred00023pl.jpg" group-title="Premium",PRED-023 An Mashiro ましろ杏
+https://surrit.com/e06cec13-29d4-471d-9350-50a620feb241/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00024/pred00024pl.jpg" group-title="Premium",PRED-024 Mao Kurata 倉多まお
 https://surrit.com/79801a7e-94ed-4c51-b4b4-bf116a73343e/1080p/video.m3u8
-#EXTINF:-1 group-title="PREMIUM",PRED-025 Ona Moe
-https://surrit.com/81bd5ac0-8c57-4b1d-8c2a-37951e951e48/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00025/pred00025pl.jpg" group-title="Premium",PRED-025 Moe Ona 緒奈もえ
+https://surrit.com/ec077ba2-ab05-4944-8a47-b7d1cf140562/720p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00026/pred00026pl.jpg" group-title="Premium",PRED-026 Miyuki Arisaka 有坂深雪
+https://surrit.com/c089f64c-ea26-4e32-816f-f82a9ea5283b/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00027/pred00027pl.jpg" group-title="Premium",PRED-027 Sho Nishino 西野翔 - Chisato Ugaki 宇垣ちさと
+https://surrit.com/18adde67-7b94-4943-a2a3-0e53e433eda4/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00028/pred00028pl.jpg" group-title="Premium",PRED-028 Aki Hamamatsu 濱松愛季
+https://surrit.com/8a45a758-6407-4c59-b1e7-6248f5d31083/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00029/pred00029pl.jpg" group-title="Premium",PRED-029 Aika Yamagishi 山岸逢花
+https://surrit.com/460a4372-159d-490c-bc05-f74cd021a12d/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00030/pred00030pl.jpg" group-title="Premium",PRED-030 Kana Morisawa (Kanako Iioka) 森沢かな（飯岡かなこ）
+https://surrit.com/0bd0238c-65ab-44e8-b3f8-77707e224595/720p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00031/pred00031pl.jpg" group-title="Premium",PRED-031 Nami Sekine 関根奈美
+https://surrit.com/290ca4b1-038f-4d72-88c6-97652959bf97/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00032/pred00032pl.jpg" group-title="Premium",PRED-032 Sora Shiina 椎名そら
+https://surrit.com/8fa691a3-82fa-4754-abf5-41042cd6be73/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00033/pred00033pl.jpg" group-title="Premium",PRED-033 Yuri Eto 江藤侑里
+https://surrit.com/ee3c1e6d-c65d-402b-ba10-bd7823dafa9b/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00034/pred00034pl.jpg" group-title="Premium",PRED-034 Miyuki Arisaka 有坂深雪
+https://surrit.com/c14ed5f7-5fb7-4463-83ad-99f11f7e241e/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00035/pred00035pl.jpg" group-title="Premium",PRED-035 Aki Hamamatsu 濱松愛季
+https://surrit.com/50edd640-cc5a-4b2e-8591-74fef8dd3240/720p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00036/pred00036pl.jpg" group-title="Premium",PRED-036 Aika Yamagishi 山岸逢花
+https://surrit.com/a5ef28da-8d84-4df4-98b7-5ac7acb17e56/720p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00037/pred00037pl.jpg" group-title="Premium",PRED-037 Chisato Ugaki 宇垣ちさと
+https://surrit.com/47eecd70-e7f2-4d6c-a10c-04735cbb0fb2/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00038/pred00038pl.jpg" group-title="Premium",PRED-038 Mio Kimijima 君島みお
+https://surrit.com/608687f2-3f43-455a-b3c9-f235626ed84b/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00039/pred00039pl.jpg" group-title="Premium",PRED-039 Minori Kawana 河南実里
+https://surrit.com/af322459-0907-4d89-a732-2ef1b7dfddea/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00040/pred00040pl.jpg" group-title="Premium",PRED-040 Aki Hamamatsu 濱松愛季
+https://surrit.com/c3a46dc4-179b-4196-992c-c3b2688e9b57/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00041/pred00041pl.jpg" group-title="Premium",PRED-041 Miyuki Arisaka 有坂深雪
+https://surrit.com/7c442365-0739-4150-8fe5-75c84dfb2699/842x480/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00042/pred00042pl.jpg" group-title="Premium",PRED-042 Aika Yamagishi 山岸逢花
+https://surrit.com/37cea3bb-986d-43a9-b0f0-ef13532b022e/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00043/pred00043pl.jpg" group-title="Premium",PRED-043 Yuri Eto 江藤侑里
+https://surrit.com/223122c8-4da6-4b1a-bf59-454e4ec3c1cb/720p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00044/pred00044pl.jpg" group-title="Premium",PRED-044 Konomi Nishimiya 西宮このみ
+https://surrit.com/02ea5ce4-b145-4836-a4e2-521ebc6bc880/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00045/pred00045pl.jpg" group-title="Premium",PRED-045 Mashiro Shirayuri 白百合ましろ
+https://surrit.com/d64feef5-0722-4dd8-93a9-39accefbc72e/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00046/pred00046pl.jpg" group-title="Premium",PRED-046 Mio Kimijima 君島みお
+https://surrit.com/fba1e160-3c26-4c87-a78b-67ef91b7cd94/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00047/pred00047pl.jpg" group-title="Premium",PRED-047 Ai Hoshina 星奈あい
+https://surrit.com/3dc9aba9-6b92-4bed-9538-f14acf9c3d3d/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00048/pred00048pl.jpg" group-title="Premium",PRED-048 Renon Kanae 香苗レノン
+https://surrit.com/a3fdc167-0003-40de-9a02-982040080746/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00049/pred00049pl.jpg" group-title="Premium",PRED-049 Miyuki Arisaka 有坂深雪
+https://surrit.com/8c9ab029-b656-4ffd-bdbf-6f6266df9bc7/1080p/video.m3u8
+#EXTINF:-1  tvg-logo="https://pics.dmm.co.jp/digital/video/pred00050/pred00050pl.jpg" group-title="Premium",PRED-050 Yuri Eto 江藤侑里
+https://surrit.com/132054a2-b334-4081-bb8c-2c3ababf3a5c/1080p/video.m3u8
