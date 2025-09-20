@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ACE Stream",Canal+ Sport [PL]
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 group-title="ACE Stream",DAZN 2
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="ACE Stream",DAZN 3
-acestream://5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc
-#EXTINF:-1 group-title="ACE Stream",DAZN 4
-acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
+#EXTINF:-1 group-title="ACE Stream",Premier League [KODI]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="ACE Stream", La Liga [KODI]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 group-title="ACE Stream", Serie A [KODI]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="ACE Stream",Bundesliga [KODI]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
 #EXTINF:-1 group-title="ACE Stream",BT Sport 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -120,6 +120,7 @@ https://hotlivezz179026907.akainu.xyz/PFMUxQS5mENFR_RvW6SvCA/Fv2lucGIbhPi2caWYvF
 https://hotlivezz179536519.akainu.xyz/live/hucHD.flv?expire=1748795410&sign=88046178d23b746161b1efb1479f98bd|Referer=https://g.zoomplayer.xyz/
 #EXTINF:-1 group-title="Roland Garros",Roland Garros 6
 https://archive.org/download/99360848_2408/02.mkv
+
 
 
 
