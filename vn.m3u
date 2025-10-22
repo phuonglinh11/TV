@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ACE Stream",Premier League [KODI]
-http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="ACE Stream", La Liga [KODI]
-http://127.0.0.1:6878/ace/manifest.m3u8?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 group-title="ACE Stream", Serie A [KODI]
-http://127.0.0.1:6878/ace/manifest.m3u8?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="ACE Stream",Bundesliga [KODI]
-http://127.0.0.1:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-
 #EXTINF:-1 group-title="ACE Stream",BT Sport 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 group-title="ACE Stream",BT Sport 2
@@ -108,18 +99,21 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="ACE Stream",Champions League 4
 acestream://96fa4e7b2af8fbf8f7608d890018ce91079858a9
 
-#EXTINF:-1 group-title="Roland Garros", Arsenal - Atletico Madrid
-https://live-vipxlvb.nsnd.live/O4GpORh9bnZRoTsDZc17EQ/847878fb5be3ca4c0539d0883bc5274a/1761097225/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland Garros",Bayer Leverkusen - Paris Saint Germain
-https://live-vipxlvb.nsnd.live/YD_-KhSxW55XudNLdh1Hug/aa2414c41b563aa2e0f4a276a0f50172/1761097484/live/_definst_/stream_1_1bda7@meoFHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland Garros",Newcastle United - Benfica
-https://live-vipxlvb.nsnd.live/GuGY1oJgAUhrBoI18Cq7fw/134f6a1c41770169e638f6127af8a455/1761097826/live/_definst_/stream_1_1bda7@may3FHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland Garros",PSV - Napoli
-https://live-vipxlvb.nsnd.live/VHomZdeluJTmkwZYSu0KvA/bf44ba621235a4936d4c6ae6054d551e/1761097939/live/_definst_/stream_1_1bda7@Z1FHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland Garros",Saint Gilloise - Inter Milan
-https://live-vipxlvb.nsnd.live/KLgP0k7y4rdparnijvBaZw/fc724b392eb664de8f0b54609b1e66f5/1761098130/live/_definst_/stream_1_1bda7@Z3FHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland Garros",Villarreal - Manchester City
-https://live-vipxlvb.nsnd.live/i40DFA-kwBO2_besy9GV2A/37c56eb4aaf958eda25bed5c53705fc2/1761098219/live/_definst_/stream_1_1bda7@myFHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaReal Madrid - Juventus
+https://live-vipxlvb.nsnd.live/D5J8eeOgEmyL4K6455Krcw/847878fb5be3ca4c0539d0883bc5274a/1761181952/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaEintracht Frankfurt - Liverpool
+https://live-vipxlvb.nsnd.live/D5J8eeOgEmyL4K6455Krcw/847878fb5be3ca4c0539d0883bc5274a/1761181952/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaBayern München - Club Brugge
+https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1761182075&sign=976c5b9b662ffc68b86582e8264e1e7d|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaMonaco - Tottenham Hotspur
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1761182053&sign=685e0e288906f98869e35f73a254e6ca|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaChelsea - Ajax
+https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1761182034&sign=f30ff659432b327b4293ef2898cc4448|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaAtalanta - Slavia Praha
+https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1761182120&sign=91288023bdfcbb45011a5341db66185f|Referer=https://g.zoomplayer.xyz/
+#EXTINF:-1 group-title="Roland GaSporting CP - Olympique Marseille
+https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1761182142&sign=9f9b430c8d513519a67c62a0fdb78fec|Referer=https://g.zoomplayer.xyz/
+
 
 
 
