@@ -101,11 +101,8 @@ https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 #EXTINF:-1 group-title="Roland GaRros",Premier League 3
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 #EXTINF:-1 group-title="Roland GaRros",Laliga
-https://eventcdn02-nowe.akamaized.net/hls/CH632/index.m3u8
-#EXTINF:-1 group-title="Roland GaRros",Italy
-https://eventcdn02-nowe.akamaized.net/hls/CH638/index.m3u8
-#EXTINF:-1 group-title="Roland GaRros",Test
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
 
 #EXTINF:-1 group-title="Roland GaRros",Paris Saint Germain (PSG) vs Newcastle United
 https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1769647059&sign=a269331c54583a25c8c36e7dfac2f42d|Referer=https://g.zoomplayer.xyz/
