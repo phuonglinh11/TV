@@ -94,62 +94,134 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 acestream://96fa4e7b2af8fbf8f7608d890018ce91079858a9
 
 
-#EXTINF:-1 group-title="Roland GaRros",Premier League 1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-#EXTINF:-1 group-title="Roland GaRros",Premier League 2
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-#EXTINF:-1 group-title="Roland GaRros",Premier League 3
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
-#EXTINF:-1 group-title="Roland GaRros",Laliga
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
-#EXTINF:-1 group-title="Roland GaRros",Champions League 1
-https://bbb.exoadash.com/TVD4071/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 2
-https://bbb.exoadash.com/TVD4072/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 3
-https://bbb.exoadash.com/TVD4073/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 4
-https://bbb.exoadash.com/TVD4074/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 5
-https://bbb.exoadash.com/TVD4075/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 6
-https://bbb.exoadash.com/TVD4076/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 7
-https://bbb.exoadash.com/TVD4077/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 8
-https://bbb.exoadash.com/TVD4078/index.mpd
-#EXTINF:-1 group-title="Roland GaRros",Champions League 9
-https://bbb.exoadash.com/TVD4079/index.mpd
 
-#EXTINF:-1 group-title="Roland GaRros",Paris Saint Germain (PSG) vs Newcastle United
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#EXTINF:-1 group-title="Roland GaRros",Benfica vs Real Madrid
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1769647198&sign=d3c941f7f2fe6c24534e2edc681143e6|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland GaRros",Barcelona vs FC Copenhagen
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1769647445&sign=b8dc17d3b4e9482c288d2a5a7f151103|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland GaRros",Atletico Madrid vs Bodo Glimt
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1769647389&sign=c884a595ddc4d0bd96d82023bf9a49d3|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland GaRros",Bayer Leverkusen vs Villarreal
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1769647379&sign=572348e7a1e1e281bc8f0fae17e140f8|Referer=https://g.zoomplayer.xyz/
 
-#EXTINF:-1 group-title="Roland GaRros",Monaco vs Juventus
-https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1769647321&sign=561f3777ca0bf841cb3d04f0ca389c9c|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland GaRros",PSV Eindhoven vs Bayern Munchen
-https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1769646963&sign=3c52a0fbf6a8d88e1a23df46bfe47884|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland GaRros",Athletic Bilbao vs Sporting
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769647666&sign=11f072e3f442d6fb8ff9c71ae07290a6|Referer=https://g.zoomplayer.xyz/
-#EXTINF:-1 group-title="Roland GaRros",Arsenal vs FC Kairat Almaty
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769647654&sign=1f50fc48474d737c91d2dfe9397869ba|Referer=https://g.zoomplayer.xyz/
 
+#EXTINF:-1 group-title="Roland GaRros",TV360+1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
+https://sgclient.duckdns.org/source/tv360.m3u8?id=2554
+#EXTINF:-1 group-title="Roland GaRros",TV360+2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
+https://sgclient.duckdns.org/source/tv360.m3u8?id=1
+#EXTINF:-1 group-title="Roland GaRros",TV360+3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8405a15e96b35497bde131a29e7fb67e:adb30d908915cf14760880240961a5ed
+https://sgclient.duckdns.org/source/tv360.m3u8?id=148
+#EXTINF:-1 group-title="Roland GaRros",TV360+4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
+https://sgclient.duckdns.org/source/tv360.m3u8?id=2458
+#EXTINF:-1 group-title="Roland GaRros",TV360+5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9867
+#EXTINF:-1 group-title="Roland GaRros",TV360+6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1389121e18651169badabee05aef5ba:0b65b7091cd1474160e0de4ef106ac5d
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9868
+#EXTINF:-1 group-title="Roland GaRros",TV360+7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f
 #EXTINF:-1 group-title="Roland GaRros",TV360+9
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 group-title="Roland GaRros",TV360+10
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 group-title="Roland GaRros",TV360+11
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
-#EXTINF:-1 group-title="Roland GaRros",Live
+#EXTINF:-1 group-title="Roland GaRros",TV360+12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
 
-
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 11
+https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 12
+https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 13
+https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 14
+https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 15
+https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
+#EXTINF:-1 group-title="Roland GaRros",VTVPrime 16
+https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 
 
