@@ -155,14 +155,14 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:6513c1c4b815949d01fc99df7318ec86
+#KODIPROP:inputstream.adaptive.license_key=1a63a0a77fe818706577be315c6efe4c:038f654aa1a57cb90aa442bf7996082d
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 group-title="Roland GaRros",Thể Thao HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:d51ff6a7a5db3fbc50682ef17ccaa230
+#KODIPROP:inputstream.adaptive.license_key=1a63a0a77fe818706577be315c6efe4c:038f654aa1a57cb90aa442bf7996082d
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
 #EXTINF:-1 group-title="Roland GaRros",On Football
