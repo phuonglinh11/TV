@@ -163,7 +163,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 
 #EXTINF:-1 group-title="Roland GaRros",SCTV 16
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=sctv2026|Method=POST|Content-Type=application/octet-stream|POST=
+#KODIPROP:inputstream.adaptive.license_key=https://vtvcab.ondrm.vn/license-api/v1/drm/licenses/widevine?content_id=sctv2026|Method=POST|Content-Type=application/x-www-form-urlencoded|POST=
 https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
 
 #EXTINF:-1 group-title="Roland GaRros",Thể Thao News
