@@ -384,14 +384,25 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 
-#EXTINF:-1 group-title="Roland GaRros",Tennis Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Roland GaRros",Spor Tv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+https://s129137.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
 #EXTINF:-1 group-title="Roland GaRros",Thể Thao News
-https://liveh12byt.vtvprime.vn/hls/THETHAO_TINTUC_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+http://s128199.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv311/manifest.mpd
 #EXTINF:-1 group-title="Roland GaRros",Thể Thao HD
-https://hugh.cdn.rumble.cloud/live/4gf18j5s/live-hls/jkuf-z5ar/chunklist_i0_DVR.m3u8
+
 #EXTINF:-1 group-title="Roland GaRros",On Football
-https://hugh.cdn.rumble.cloud/live/3fms19g4/live-hls/t1gf-yx86/chunklist_i0_DVR.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+http://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
 
 #EXTINF:-1 group-title="Roland GaRros",VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
